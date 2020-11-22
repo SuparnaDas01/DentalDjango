@@ -1,7 +1,7 @@
 <h2>Dental project  </h2>
 </br>
 
-<h3>Simple django project</h3></br>
+<h3>Simple django project</h3>
 * This is a django project built from existing html template.
 </br>
 * Customize the pages as per your requirements.
@@ -12,7 +12,6 @@
 </br>
 
 <h3>Technologies used</h3>
-</br>
 * Django
 </br>
 * HTML CSS
