@@ -1,5 +1,7 @@
 <h2>Dental project  </h2>
-```Simple django project
+</br>
+```
+<h2>Simple django project</h2></br>
 * This is a django project built from existing html template.
 * Customize the pages as per your requirements.
 * Add functionality for adding email server.
@@ -7,6 +9,7 @@
 
 ```
 <h3>Technologies used</h3>
+</br>
 * Django
 * HTML CSS
 * Django Email
