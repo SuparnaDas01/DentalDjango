@@ -1,6 +1,5 @@
 <h2>Dental project  </h2>
 </br>
-
 <h3>Simple django project</h3>
 * This is a django project built from existing html template.
 </br>
