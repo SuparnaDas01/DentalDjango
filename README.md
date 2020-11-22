@@ -1,0 +1,2 @@
+# DentalDjango
+Simple django project
